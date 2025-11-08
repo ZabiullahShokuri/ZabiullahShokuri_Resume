@@ -1,8 +1,6 @@
 # Zabiullah Shokuri Resume
 
-📄 [Download My Resume (PDF)](https://github.com/ZabiullahShokuri/ZabiullahShokuri_Resume/raw/main/ZabiullahShokuri_Resume.pdf)
-
-
+📄 [Download My Resume (PDF)](https://raw.githubusercontent.com/ZabiullahShokuri/ZabiullahShokuri_Resume/main/Zabiullah_Shokuri_Resume.pdf)
 
 
 💼 Web Developer  
